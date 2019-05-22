@@ -21,6 +21,7 @@ INSTALLED_APPS = [
 
     'users',
     'leads',
+    'frontend',
 
     'rest_framework',
 ]
